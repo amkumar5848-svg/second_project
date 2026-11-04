@@ -1,0 +1,73 @@
+ 
+
+  .img{
+
+    background-image: url('https://biztrox-bootstrap.vercel.app/images/background/about-bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+
+  .pic1{
+
+
+     background-image: url('https://biztrox-bootstrap.vercel.app/images/works/work-1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+  }
+
+   .pic2{
+
+
+     background-image: url('https://biztrox-bootstrap.vercel.app/images/works/work-2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+  }
+   .pic3{
+
+
+     background-image: url('https://biztrox-bootstrap.vercel.app/images/works/work-3.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+  }
+
+   .pic4{
+
+
+     background-image: url('https://biztrox-bootstrap.vercel.app/images/works/work-4.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+  }
+.red:hover{
+  cursor: pointer;
+}
+
+.photo{
+
+   background-image: url('https://biztrox-bootstrap.vercel.app/images/background/promo-video.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.img5{
+
+  background-image: url('https://biztrox-bootstrap.vercel.app/images/background/cta.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.foot > li:hover{
+
+  color: red;
+
+}
